@@ -1,0 +1,17 @@
+{
+  "name": "SourceSanPro",
+  "version": "1.0.1",
+  "authors": [
+    "Quang Linh <nguyenquanglinh2898@gmail.com>"
+  ],
+  "description": "Source San Pro fonts",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nguyenquanglinh2898/SourceSanPro.git",
+  "ignore": [
+    "README.md"
+  ]
+}
